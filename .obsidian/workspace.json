@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical methods/Lection 2.md",
+                "file": "Numerical methods/Lections/Lection 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d863d4e2fd8e2cd2",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical methods/Lection 2.md",
+                "file": "Numerical methods/Lections/Lection 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numerical methods/Lection 2.md",
+                "file": "Numerical methods/Lections/Lection 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical methods/Lection 2.md",
+                "file": "Numerical methods/Lections/Lection 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +190,9 @@
   },
   "active": "0a9d2a6e45f6c66b",
   "lastOpenFiles": [
-    "Numerical methods/Lection 2.md",
-    "Numerical methods/Lection 1.md",
+    "Numerical methods/Lections/Lection 1.md",
+    "Numerical methods/Lections/Lection 2.md",
+    "Numerical methods/Lections",
     "Welcome.md",
     "Numerical methods"
   ]

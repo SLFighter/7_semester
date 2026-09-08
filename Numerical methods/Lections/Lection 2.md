@@ -56,3 +56,12 @@ $$Δ(\nabla y_i)=y_{i+1}-2y_i+y_{i-1}$$
 
 ---
 
+#### Разностные аналоги формулы дифференцирования произведения
+
+$$d(UV)=dU\cdot V+V\cdot dU$$
+$$\Delta(U_i\cdot V_i)=\Delta(U\cdot V)_i=U_{i+1}\cdot V_{i+1}+U_i\cdot V_i=U_{i+1}\cdot \Delta V_i+V_i\cdot \Delta U_i=V_{i+1}\cdot \Delta U_i + U_i\cdot \Delta V_i$$
+
+То же самое для левой разности:
+
+$$\nabla(U_i\cdot V_i)=U_i\cdot \nabla V_i+V_{i-1}\cdot \nabla U_i=V_i\cdot \nabla U_i + U_{i-1}\cdot \nabla V_i$$
+
