@@ -14,5 +14,8 @@ $$\left. \dfrac{d^2n}{dx^2} \right|_{x_i}\approx \dfrac{n_{i+1}-2n_i+n_{i-1}}{h^
 $$\left. \dfrac{dn}{dx} \right|_{x_i}\approx \dfrac{n_{i+1}-n_i}{h}\ (m=1)$$
 $$\left. \dfrac{dn}{dx} \right|_{x_i} \approx \dfrac{n_{i}-n_{i-1}}{h}\ (m=1)$$
 $$\left. \dfrac{dn}{dx} \right|_{x_i} \approx \dfrac{n_{i+1}-n_{i-1}}{2h}\ (m=2)$$
-Подставим в исходное ДУ ($m=1$)
+Подставим в исходное ДУ $(m=1)$
 $$\dfrac{n_{i+1}-2n_i+n_{i-1}}{h^2}+D\cdot \dfrac{n_{i+1}-n_i}{h}-E\cdot n_i=1-ln(i\cdot h)$$
+Подставим в исходное ДУ $(m=2)$
+$$\dfrac{n_{i+1}-2n_i+n_{i-1}}{h^2}+D\cdot \dfrac{n_{i+1}-n_{i-1}}{2h}-E\cdot n_i=1-ln(i\cdot h)$$
+Получили СЛАУ (для каждого $i$). Количество уравнений на два меньше, чем узлов сетки. Нужны ГУ.
