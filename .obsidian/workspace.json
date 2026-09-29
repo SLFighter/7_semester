@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce1c958a724c4f9",
+        "id": "32059de81e46ea47",
         "type": "tabs",
         "children": [
           {
-            "id": "7bedbbc25d956642",
+            "id": "d05f6de75bc0ee01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Numerical methods/Lections/Lection 5.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lection 5"
             }
           }
         ]
@@ -183,28 +187,44 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bedbbc25d956642",
+  "active": "d05f6de75bc0ee01",
   "lastOpenFiles": [
-    "Numerical methods/Lections/Lection 3.md",
     "Numerical methods/Seminars/Seminar 1.md",
+    "Numerical methods/Lections/Lection 5.md",
+    "Power supplies for plasma plants/Seminars/Seminar 3.md",
+    "Living Safety/Seminars/Seminar 2.md",
+    "Power supplies for plasma plants/Seminars",
+    "Living Safety/Seminars/img/s22.png",
+    "Living Safety/Seminars/img/s21.png",
+    "Living Safety/Seminars/img",
+    "Living Safety/Seminars/New folder",
+    "Law/Lections/Lection 2.md",
+    "Law/Lections/Lection 1.md",
+    "Law/Seminars/Seminar 2.md",
+    "Power supplies for plasma plants/Lections/Lection 2.md",
+    "Law/Seminars/prinyatie_fz_i_fkz_provereno_ofitsialnye_istochniki.md",
+    "Law/Seminars",
+    "Plasma generators/Lections/Lection N.md",
+    "Ion-plasma technologies basics/Lections/Lection 3.md",
+    "Plasma generators/Lections",
+    "Plasma generators",
+    "Ion-plasma technologies basics/Lections/imgs/Lection_3_5.png",
+    "Ion-plasma technologies basics/Lections/imgs/Lection_3_4.png",
+    "Ion-plasma technologies basics/Lections/imgs",
+    "Ion-plasma technologies basics/Lections/imgs/Lection_3_3.png",
+    "Ion-plasma technologies basics/Lections/imgs/Lection_3_2.png",
+    "Ion-plasma technologies basics/Lections/imgs/Lection_3_1.png",
+    "Lection.md",
+    "Numerical methods/Lections/Lection 3.md",
     "Numerical methods/Seminars",
     "Numerical methods/Lections/Lection 2.md",
     "Ion-plasma technologies basics/Lections/Lection 1.md",
     "Ion-plasma technologies basics/Lections",
     "Ion-plasma technologies basics",
     "Living Safety/Seminars/Seminar 1.md",
-    "Law/Lections/Lection 1.md",
-    "Living Safety/Seminars",
-    "Living Safety",
-    "Law/Lections",
-    "Law",
-    "Untitled.base",
     "Untitled.canvas",
-    "Power supplies for plasma plants/Lections/Lection 2.md",
     "Power supplies for plasma plants/Lections/lec2.1.jpg",
     "Power supplies for plasma plants/Progress.md",
-    "Power supplies for plasma plants/Lections",
-    "Power supplies for plasma plants",
     "Numerical methods/Progress.md",
     "Numerical methods/Lections/Lection 1.md",
     "Welcome.md"
